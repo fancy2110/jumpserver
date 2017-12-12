@@ -44,3 +44,5 @@ keys/*
 jumpserver.conf
 nohup.out
 tmp/*
+.github/
+.python-version/
